@@ -18,3 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # lab3
 >>>>>>> f11a4abbdfcb06a224cf550e51bd1f9193917425
+
+Used ai for git push refrence and also used some code for refrencr from ai to match with my code for refrence
